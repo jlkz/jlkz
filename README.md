@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jerick Lim</h1>
-<h3 align="center">A Sophomore Computer Science Student @ NTU</h3>
+<h3 align="center">A Junior Computer Science Student @ NTU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jlkz&label=Profile%20views&color=0e75b6&style=flat" alt="jlkz" /> </p>
 
